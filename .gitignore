@@ -1,0 +1,23 @@
+# Build files
+build/
+*.o
+*.out
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# System files
+.DS_Store
